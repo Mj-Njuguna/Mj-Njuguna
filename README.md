@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Hi, I'm a passionate developer specializing in both mobile and web applications. My expertise includes:
+🔭 
+Hi, I'm a passionate developer specializing in both mobile and web applications. My expertise includes:
 
 React Native & React: Building responsive, high-performance interfaces.
 Next.js: Creating dynamic, server-rendered web applications.
@@ -7,7 +8,7 @@ JavaScript: Crafting dynamic and scalable solutions.
 Expo: Streamlining development with powerful tools and libraries.
 Figma: Designing intuitive, user-centered interfaces.
 Shadcn UI: Leveraging modern UI components for efficient, customizable design.
-I'm always exploring new technologies and love collaborating on innovative projects. Check out my repositories to see what I've been working on!<br>🌱 I’m currently learning React and Tailwind Css<br>👯 I’m looking to collaborate on React related projects<br>💬 Ask me about FrontEnd Dev<br>📫 How to reach me: 📬 jessemike0002@gmail.com<br>
+I'm always exploring new technologies and love collaborating on innovative projects. Check out my repositories to see what I've been working on!<br>🌱 I’m currently building a fintech based on solana ecosystem (stab)<br>👯 I’m looking to collaborate on Full stack mobile development v<br>📫 How to reach me: 📬 jessemike0002@gmail.com<br>
 
 
 ## 🌐 Socials:
