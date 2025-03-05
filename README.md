@@ -1,12 +1,12 @@
 # 💫 About Me:
-🔭Hi, I'm a passionate developer specializing in both mobile and web applications. My expertise includes<br>
-React Native & React: Building responsive, high-performance interfaces.
-Next.js: Creating dynamic, server-rendered web applications.
-JavaScript: Crafting dynamic and scalable solutions.
-Expo: Streamlining development with powerful tools and libraries.
-Figma: Designing intuitive, user-centered interfaces.
-Shadcn UI: Leveraging modern UI components for efficient, customizable design.<br>
-I'm always exploring new technologies and love collaborating on innovative projects. <br>Check out my repositories to see what I've been working on!<br>🌱 I’m currently building a fintech based on solana ecosystem (stab)<br>👯 I’m looking to collaborate on Full stack mobile development v<br>📫 How to reach me: 📬 jessemike0002@gmail.com<br>
+<br>🔭Hi, I'm a passionate developer specializing in both mobile and web applications. My expertise includes<br>
+<br>-React Native & React: Building responsive, high-performance interfaces.<br>
+<br>-Next.js: Creating dynamic, server-rendered web applications.<br>
+<br>-JavaScript: Crafting dynamic and scalable solutions.<br>
+<br>-Expo: Streamlining development with powerful tools and libraries.<br>
+<br>-Figma: Designing intuitive, user-centered interfaces.<br>
+<br>-Shadcn UI: Leveraging modern UI components for efficient, customizable design.<br>
+<br>-I'm always exploring new technologies and love collaborating on innovative projects. <br>Check out my repositories to see what I've been working on!<br>🌱 I’m currently building a fintech application based on solana ecosystem (stab)<br>👯 I’m looking to collaborate on Full stack mobile development <br>📫 How to reach me: 📬 jessemike0002@gmail.com<br>
 
 
 ## 🌐 Socials:
