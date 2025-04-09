@@ -1,13 +1,12 @@
 # 💫 About Me:
-<br>🔭Hi, I'm a passionate developer specializing in both mobile and web applications. My expertise includes<br>
-<br>-React Native & React: Building responsive, high-performance interfaces.<br>
-<br>-Next.js: Creating dynamic, server-rendered web applications.<br>
-<br>-JavaScript: Crafting dynamic and scalable solutions.<br>
-<br>-Expo: Streamlining development with powerful tools and libraries.<br>
-<br>-Figma: Designing intuitive, user-centered interfaces.<br>
-<br>-Shadcn UI: Leveraging modern UI components for efficient, customizable design.<br>
-<br>-I'm always exploring new technologies and love collaborating on innovative projects. <br>Check out my repositories to see what I've been working on!<br>🌱 I’m currently building a fintech application based on solana ecosystem (stab)<br>👯 I’m looking to collaborate on Full stack mobile development <br>📫 How to reach me: 📬 jessemike0002@gmail.com<br>
-
+<br>🚀 Techie with a mission to build, break, and better things.<br>
+<br>💻 Full-stack developer | IT Specialist | Problem-solver<br>
+<br>🌍 Based in Kenya, building for the world<br>
+<br>🛠️ React • Next.js • React Native • Tailwind • TypeScript • Figma • Expo<br>
+<br>🔌 Bridging design, code, and real-world impact<br>
+<br>🌱 Passionate about AI, blockchain, and building for emerging markets<br>
+<br>💡 Currently working on tools that empower people and communities<br>
+📬 Let's connect: jessemike0712@gmail.com | Portfolio
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wrldof_mj) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/wrldof_mj) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/wrldof_mj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Mj-Njuguna) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@thegr8fortis) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Mj-Njuguna) 
