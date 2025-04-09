@@ -6,7 +6,7 @@
 <br>🔌 Bridging design, code, and real-world impact<br>
 <br>🌱 Passionate about AI, blockchain, and building for emerging markets<br>
 <br>💡 Currently working on tools that empower people and communities<br>
-📬 Let's connect: jessemike0712@gmail.com | Portfolio
+📬 Let's connect: jessemike0712@gmail.com | Portfolio https://jessenjuguna.netlify.app/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wrldof_mj) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/wrldof_mj) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/wrldof_mj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Mj-Njuguna) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@thegr8fortis) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Mj-Njuguna) 
